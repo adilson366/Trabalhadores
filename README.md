@@ -1,9 +1,6 @@
 Isto é apenas um exercício que fiz para praticar.
 
-Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar
-do usuário um mês e mostrar qual foi o salário do funcionário nesse mês, conforme exemplo.
 ![exercicio](https://user-images.githubusercontent.com/104538706/189494635-f631d139-d548-4e48-a1d5-18afe1a0092a.png)
-
 
 Enter department's name: Design  
 Enter worker data:  
