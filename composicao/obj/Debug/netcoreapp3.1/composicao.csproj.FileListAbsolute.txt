@@ -1,0 +1,14 @@
+C:\Users\adils\source\repos\composicao\composicao\bin\Debug\netcoreapp3.1\composicao.exe
+C:\Users\adils\source\repos\composicao\composicao\bin\Debug\netcoreapp3.1\composicao.deps.json
+C:\Users\adils\source\repos\composicao\composicao\bin\Debug\netcoreapp3.1\composicao.runtimeconfig.json
+C:\Users\adils\source\repos\composicao\composicao\bin\Debug\netcoreapp3.1\composicao.runtimeconfig.dev.json
+C:\Users\adils\source\repos\composicao\composicao\bin\Debug\netcoreapp3.1\composicao.dll
+C:\Users\adils\source\repos\composicao\composicao\bin\Debug\netcoreapp3.1\composicao.pdb
+C:\Users\adils\source\repos\composicao\composicao\obj\Debug\netcoreapp3.1\composicao.csproj.AssemblyReference.cache
+C:\Users\adils\source\repos\composicao\composicao\obj\Debug\netcoreapp3.1\composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adils\source\repos\composicao\composicao\obj\Debug\netcoreapp3.1\composicao.AssemblyInfoInputs.cache
+C:\Users\adils\source\repos\composicao\composicao\obj\Debug\netcoreapp3.1\composicao.AssemblyInfo.cs
+C:\Users\adils\source\repos\composicao\composicao\obj\Debug\netcoreapp3.1\composicao.csproj.CoreCompileInputs.cache
+C:\Users\adils\source\repos\composicao\composicao\obj\Debug\netcoreapp3.1\composicao.dll
+C:\Users\adils\source\repos\composicao\composicao\obj\Debug\netcoreapp3.1\composicao.pdb
+C:\Users\adils\source\repos\composicao\composicao\obj\Debug\netcoreapp3.1\composicao.genruntimeconfig.cache
